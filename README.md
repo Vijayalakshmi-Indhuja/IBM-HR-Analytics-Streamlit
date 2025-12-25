@@ -101,7 +101,7 @@ streamlit run app.py
 ## 🚀 Deployment
 The application is deployed using Streamlit Cloud and is accessible at:
 
-🔗 **Live App:** https://ibm-hr-analytics-app-tcn3tq6rotgvvc84wepufm.streamlit.app/
+🔗 **Live App:** https://vijayalakshmi-ibm-hr-analytics.streamlit.app/
 
 ## 🧠 Learnings
 
